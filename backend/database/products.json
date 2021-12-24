@@ -1,0 +1,72 @@
+[
+	{
+		"name": "Samsung Smartphone 1",
+		"company": "Samsung",
+		"description": "Android, 2021, 6.5'' Super AMOLED, 6 GB, 128 GB, 4500 mAh, 64 MP",
+		"price": 259000,
+		"image": "http://localhost:5000/samsung.jpg"
+	},
+	{
+		"name": "Apple Smartphone 1",
+		"company": "Apple",
+		"description": "6.1'', 828 x 1792 pixels, Nano-SIM,iOS 13, Apple A13 Bionic (7 nm+), Hexa-core (2x2.65 ",
+		"price": 499000,
+		"image": "http://localhost:5000/apple.jpg"
+	},
+	{
+		"name": "Xiaomi Smartphone 1",
+		"company": "Xiaomi",
+		"description": " Android 10.0 Q , IPS LCD 6.5'' 720 x 1600, 32 GB, 13 + 2 MP, 13 MP, 5000 mAh",
+		"price": 79000,
+		"image": "http://localhost:5000/xiaomi.jpg"
+	},
+	{
+		"name": "Huawei Smartphone 1",
+		"company": "Huawei",
+		"description": "Smartphone HUAWEI P Smart 2021, 6,6, 4GB, 128GB, Android 10, crni",
+		"price": 119900,
+		"image": "http://localhost:5000/huawei.jpg"
+	},
+	{
+		"name": "Xiaomi Smartphone 2",
+		"company": "Xiaomi",
+		"description": " Android 10.0 Q , IPS LCD 6.5'' 720 x 1600, 32 GB, 13 + 2 MP, 13 MP, 5000 mAh",
+		"price": 126000,
+		"image": "http://localhost:5000/xiaomi.jpg"
+	},
+	{
+		"name": "Apple Smartphone 2",
+		"company": "Apple",
+		"description": "6.1'', 828 x 1792 pixels, Nano-SIM,iOS 13, Apple A13 Bionic (7 nm+), Hexa-core (2x2.65 ",
+		"price": 320000,
+		"image": "http://localhost:5000/apple.jpg"
+	},
+	{
+		"name": "Apple Smartphone 3",
+		"company": "Apple",
+		"description": "6.1'', 828 x 1792 pixels, Nano-SIM,iOS 13, Apple A13 Bionic (7 nm+), Hexa-core (2x2.65 ",
+		"price": 258000,
+		"image": "http://localhost:5000/apple.jpg"
+	},
+	{
+		"name": "Samsung Smartphone 2",
+		"company": "Samsung",
+		"description": "Android, 2021, 6.5'' Super AMOLED, 6 GB, 128 GB, 4500 mAh, 64 MP",
+		"price": 259000,
+		"image": "http://localhost:5000/samsung.jpg"
+	},
+	{
+		"name": "Apple Smartphone 4",
+		"company": "Apple",
+		"description": "6.1'', 828 x 1792 pixels, Nano-SIM,iOS 13, Apple A13 Bionic (7 nm+), Hexa-core (2x2.65",
+		"price": 780000,
+		"image": "http://localhost:5000/apple.jpg"
+	},
+	{
+		"name": "Huawei Smartphone 2",
+		"company": "Huawei",
+		"description": "Smartphone HUAWEI P Smart 2021, 6,6, 4GB, 128GB, Android 10, crni",
+		"price": 109000,
+		"image": "http://localhost:5000/huawei.jpg"
+	}
+]
